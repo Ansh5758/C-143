@@ -1,0 +1,38 @@
+#h3{
+    color: blue;
+    display: inline;
+}
+#btn1{
+    background-color: blue;
+    color: white;
+    border-radius: 100%;
+    float: right;
+    margin-right: 7.5px;
+    margin-top: 7.5px;
+}
+#play{
+    font-size: 25px;
+    background-color: blue;
+    color: white;
+    padding: 0px 15px;
+}
+#status{
+    background-color: white;
+    color: blue;
+    border-radius: 5px;
+    border: 2px solid blue;
+    padding: 5px 10px;
+    display: inline-block;
+}
+.h4{
+    background-color: blue;
+    color: white;
+    width: 100%;
+}
+.img{
+    width: 45%;
+    display: inline-block;
+}
+.modal-dialog{
+    width: 80%;
+}
